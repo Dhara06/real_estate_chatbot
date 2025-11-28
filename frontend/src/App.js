@@ -15,7 +15,7 @@ const RealEstateChatbot = () => {
     setLoading(true);
 
     try {
-      const response = await fetch('https://real-estate-chatbot-yjrx.vercel.app//api/analyze/', {
+      const response = await fetch('https://real-estate-chatbot-1-tp68.onrender.com/api/analyze/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
