@@ -7,7 +7,7 @@
 
 ##  Project Description
 
-The **Real Estate Analysis Chatbot** is a smart web application that allows users to ask questions about real estate trends, property prices, and demand across different locations. It processes user queries using a Django backend and visualizes results using interactive charts and tables in a React frontend.
+The **Real Estate Analysis Mini-Chatbot** is a smart web application that allows users to ask questions about real estate trends, property prices, and demand across different locations based on a given excel sheet. It processes user queries using a Django backend and visualizes results using interactive charts and tables in a React frontend.
 
 This system helps users make **data-driven property decisions** by providing meaningful insights such as:
 
